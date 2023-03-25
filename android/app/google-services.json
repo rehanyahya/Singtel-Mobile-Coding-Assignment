@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757873785901",
+    "project_id": "singtel-test-dc21a",
+    "storage_bucket": "singtel-test-dc21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757873785901:android:aad5330e90a0c7711b0ca4",
+        "android_client_info": {
+          "package_name": "com.singtelmobilecodingassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757873785901-av7sv5rjnu6k7u377lbo4d4rj7c2jjmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAddyTrdrOyvsvifHSdGM7U640uuDTLyHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757873785901-av7sv5rjnu6k7u377lbo4d4rj7c2jjmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
